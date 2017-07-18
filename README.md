@@ -1,2 +1,2 @@
 # puppet-docker-jenkins-aws
-Test project using puppet with docker containers 
+Test project using puppet with docker containers in AWS.
